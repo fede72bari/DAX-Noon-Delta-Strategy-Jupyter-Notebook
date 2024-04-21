@@ -1,4 +1,4 @@
-You can find full description of the results at the URl https://medium.com/@fede72bari/noon-delta-signal-analysis-on-dax-7fe40aa35916
+You can find full description of the results at the URL https://medium.com/@fede72bari/noon-delta-signal-analysis-on-dax-7fe40aa35916
 
 -------------------------------------------------------------------------------------
 Extract
