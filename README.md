@@ -12,7 +12,7 @@ Disclaimer: This document is published solely for coding and statistical analysi
 
 It’s 4 months; 4 months that my friend Paolo warmly invites me for statistically testing and characterizing this strategy. Something he heard from somebody else; a gossip traveling the seas of trading forums and chats for years probably. I guess that Paolo now could be happy, but always possible undetected bugs in my code. More than 82% successful, simple strategy! Or … not?
 
-<h2>Index<\h2>
+<h2>Index</h2>
 1.	Versions	4
 2.	Preface	5
 Some expectations you may have on this publication	5
