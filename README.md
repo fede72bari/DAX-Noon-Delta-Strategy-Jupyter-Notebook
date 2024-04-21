@@ -4,15 +4,15 @@ You can find full description of the results at the URl https://medium.com/@fede
 Extract
 -------------------------------------------------------------------------------------
 
-Noon Delta Signal Analysis on DAX
+<h1>Noon Delta Signal Analysis on DAX</h1>
 
-Copyright Federico Bari — April the 7th 2024 — fede72bari@gmail.com
+<i>Copyright Federico Bari — April the 7th 2024 — fede72bari@gmail.com
 
-Disclaimer: This document is published solely for coding and statistical analysis learning purposes. It is not intended to suggest, promote, or stimulate any trading strategy. Avoid using the results and remarks presented in this document for actual trading purposes, as it may contain bugs and mistakes. Moreover, future market conditions could differ from historical data, potentially leading to significant trading losses. Any suggestion, error/bug detection, and improvement is very welcome.
+Disclaimer: This document is published solely for coding and statistical analysis learning purposes. It is not intended to suggest, promote, or stimulate any trading strategy. Avoid using the results and remarks presented in this document for actual trading purposes, as it may contain bugs and mistakes. Moreover, future market conditions could differ from historical data, potentially leading to significant trading losses. Any suggestion, error/bug detection, and improvement is very welcome.</i>
 
 It’s 4 months; 4 months that my friend Paolo warmly invites me for statistically testing and characterizing this strategy. Something he heard from somebody else; a gossip traveling the seas of trading forums and chats for years probably. I guess that Paolo now could be happy, but always possible undetected bugs in my code. More than 82% successful, simple strategy! Or … not?
 
-Index
+<h2>Index<\h2>
 1.	Versions	4
 2.	Preface	5
 Some expectations you may have on this publication	5
