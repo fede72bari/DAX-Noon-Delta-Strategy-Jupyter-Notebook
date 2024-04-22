@@ -4,7 +4,7 @@ You can find full description of the results at the URL https://medium.com/@fede
 Extract
 -------------------------------------------------------------------------------------
 
-<h1>Noon Delta Signal Analysis on DAX</h1>
+<h1>Trading DAX: the Noon Delta Signal Analysis</h1>
 
 <i>Copyright Federico Bari — April the 7th 2024 — fede72bari@gmail.com
 
